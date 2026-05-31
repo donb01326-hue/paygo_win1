@@ -101,7 +101,7 @@ export default function PaymentPage() {
 
             <div>
               <p className="text-gray-700 mb-1">Bank Name</p>
-              <p className="font-bold">MONIEPOINT MFB</p>
+              <p className="font-bold">MONIEPOINT  MFB</p>
             </div>
 
             <div>
